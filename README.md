@@ -12,7 +12,7 @@
       - 안형준 / evelynnness@gmail.com
 
 #### **서비스 배포 링크**:  [https://client.myplayground.shop/](https://client.myplayground.shop/)
-#### **API 문서 링크**: [https://documenter.getpostman.com/view/21338188/2s7YfGEdCm#intro](POSTMAN API Documentation)
+#### **API 문서 링크**: [POSTMAN API Documentation](https://documenter.getpostman.com/view/21338188/2s7YfGEdCm#intro)
 
 <br />
 

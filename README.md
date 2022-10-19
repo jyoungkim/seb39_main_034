@@ -14,7 +14,6 @@
 #### **서비스 배포 링크**:  [https://client.myplayground.shop/](https://client.myplayground.shop/)
 #### **API 문서 링크**: [POSTMAN API Documentation](https://documenter.getpostman.com/view/21338188/2s7YfGEdCm#intro)
 
-#### **API 문서 링크**: <a href="https://documenter.getpostman.com/view/21338188/2s7YfGEdCm#intro" target="_blank">POSTMAN API Documentation</a>
 
 <br />
 

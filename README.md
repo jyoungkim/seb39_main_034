@@ -134,8 +134,6 @@
     - API 문서 작성 및 요청, 응답 테스트
 - 유효성 검증
     - Post dto, Patch dto 작업
-- Comment API
-    - 작업 중 Controller, Service 클래스 맵핑 문제로 현재 복습하며 진행중
 
 <br />
 
